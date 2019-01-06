@@ -1,6 +1,6 @@
 #!/bin/bash
 #Script menu
-echo -e "HY KUMPULSEMUT MENU PERINTAH"
+echo -e "MENU PERINTAH"
 echo -e "speedtest --share : untuk cek speed vps"
 echo -e "mem : untuk melihat pemakaian ram"
 echo -e "checkvirus : untuk scan virus / malware"
